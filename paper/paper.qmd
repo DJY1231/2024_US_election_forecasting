@@ -473,5 +473,10 @@ Thank You Message
 
 
 # References
+R Core Team. 2023. R: A Language and Environment for Statistical Computing. Vienna,
+Austria: R Foundation for Statistical Computing. https://www.R-project.org/.
+
+Wickham, Hadley. 2016. Ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New
+York. https://ggplot2.tidyverse.org.
 
 
